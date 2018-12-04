@@ -4,7 +4,7 @@ from time import sleep
 
 
 
-driver = webdriver.Chrome(executable_path="D:\\Tools\\Pycharm\\UI\\driver\\chromedriver.exe")
+driver = webdriver.Chrome()
 driver.maximize_window()
 driver.get("http:www.baidu.com")
 sleep(5)
@@ -16,3 +16,4 @@ sleep(5)
 print(driver.title)
 assert "测试教程网_百度搜索" == driver.title
 print('判断页面title是否正确')
+driver.quit()
