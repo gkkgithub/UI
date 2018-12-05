@@ -19,10 +19,6 @@ print('判断页面title是否正确')
 driver.quit()
 print('hello world')
 print('回滚到指定版本')
-<<<<<<< HEAD
 print('回滚到指定版本   1')
 print('回滚到指定版本   2')
 print('回滚到指定版本   3')
-=======
-print('回滚到指定版本   1')
->>>>>>> parent of 725273e... 回滚到指定版本  22
