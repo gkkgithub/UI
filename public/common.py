@@ -23,4 +23,5 @@ print('回滚到指定版本一')
 print('回滚到指定版本二')
 print('回滚到指定版本三')
 print('clear checkout')
+print('回滚到指定版本四')
 
