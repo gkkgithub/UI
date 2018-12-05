@@ -18,4 +18,7 @@ assert "测试教程网_百度搜索" == driver.title
 print('判断页面title是否正确')
 driver.quit()
 print('hello world')
-print('测试回滚')
+print('回滚到指定版本')
+print('回滚到指定版本   1')
+print('回滚到指定版本   2')
+print('回滚到指定版本   3')
