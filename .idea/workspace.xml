@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e898a28c-9745-465a-af7f-3d57d3b3dc4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Confiig/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Driver/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Driver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PageObject/element/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Public/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Result/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestRun/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/driver/geckodriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Confiig/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/confiig/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/element/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestRun/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageObject/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/Public/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resultFile/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestRun/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
-    </list>
+    <list default="true" id="e898a28c-9745-465a-af7f-3d57d3b3dc4c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +12,7 @@
     <session id="-739436176">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="2" />
@@ -98,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestCase/request_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="378">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -164,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="541" />
     <option name="y" value="76" />
     <option name="width" value="950" />
@@ -361,7 +339,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21546261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -484,8 +463,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCase/request_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="378">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
